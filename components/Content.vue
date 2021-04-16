@@ -5,7 +5,7 @@
             <div class="container-fluid">
                 <h2> {{ $t(item.nomPoste) }}</h2>
                 <p class="para"> {{ item.nomEntreprise }} </p>
-                <p v-if='item.type!==""'> {{ $t(item.periode) }} | {{ $t(item.type) }} </p>
+                <p v-if='item.type!==""'> {{ $t(item.periode) }}  </p>
                 <p v-else> {{ $t(item.periode)  }} </p>
                 <b-card-text>
                     <a  href="item.description" v-if='item.description==="https://www.time-planet.com/fr"'> {{ $t(item.description) }} </a>

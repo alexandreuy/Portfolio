@@ -25,7 +25,7 @@ export default {
         slide: 0,
         sliding: null,
         carouselInfo: [
-            { caption: "Work Experiences", src: "https://zupimages.net/up/20/40/n798.jpg" },
+            { caption: "Work Experience", src: "https://zupimages.net/up/20/40/n798.jpg" },
             { caption: "Education", src: "https://zupimages.net/up/20/42/o5bf.jpg" },
             { caption: "Skills", src: "https://zupimages.net/up/20/44/j450.jpg" },
         ]

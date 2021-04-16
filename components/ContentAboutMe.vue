@@ -28,9 +28,10 @@
 export default {
     data: () => ({
         title : "Who am I ?",
-        text: " Hi ! I'm Alexandre UY, I'm a student in professional degree in Web, Mobile and Business Intelligence "
-        + " at CNAM and an apprentice as a Fullstack Web Developer at Jack Agency. I also joined Time For The Planet "
-        + " as an Associate to fight for the global warming. ",
+        text: " Hi ! I'm Alexandre UY, I'm a student in Bachelor's degree in Web, Mobile and Business Intelligence "
+        + " at CNAM and an apprentice as a Fullstack Web Developer at Jack Agency."
+        + " I'm looking for my new apprenticeship as a Data Scientist"
+        + " or as a Software Engineer.",
 
     }),
 

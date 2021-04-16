@@ -21,13 +21,14 @@ export default {
         slideID: 0,
         section: [
             [
-                { nomPoste: "Fullstack Web Developer", nomEntreprise: "JACK Agency", type: "Apprenticeship", description: "", periode: "September 2020 - September 2021", image:"https://zupimages.net/up/20/42/anld.png" },
-                { nomPoste: "Associate", nomEntreprise: "Time For The Planet", type:"", description: "https://www.time-planet.com/fr", periode: "July 2020 - Now", image:"https://zupimages.net/up/20/42/4kky.png" },
+                { nomPoste: "Full-stack Web Developer", nomEntreprise: "JACK Agency", type: "Apprenticeship", description: "", periode: "September 2020 - September 2021", image:"https://zupimages.net/up/20/42/anld.png" },
+                { nomPoste: "Shareholders", nomEntreprise: "Time For The Planet", type:"", description: "https://www.time-planet.com/fr", periode: "July 2020 - Now", image:"https://zupimages.net/up/20/42/4kky.png" },
                 { nomPoste: "VBA Developer", nomEntreprise: "AXA FRANCE", type: "Apprenticeship", description: "Programming Access and Excel tools in VBA as part of a project", periode: "September 2019 - August 2020", image:"https://zupimages.net/up/20/42/45qe.png" }
             ],
             [
-                { nomPoste: "Vocational Bachelor’s Degree in Web, Mobile and Business Intelligence", nomEntreprise: "CNAM", type:"In progress" ,description: "Analysis and Design Web, Mobile and Business Intelligence Applications", periode: "2020 - 2021", image:"https://zupimages.net/up/20/42/iq8l.png" },
-                { nomPoste: "Undergraduate Degree in Technology in Computer Science", nomEntreprise: "IUT DE MONTREUIL", description: "2019 - 2020 : Year performed in apprenticeship", periode: "2018 - 2020", type:"Graduated",  image:"https://zupimages.net/up/20/42/3ehw.png" },
+                { nomPoste: "Engineer's Degree in Computer Science", nomEntreprise: "CY TECH (EISTI)", periode: "2021 - 2024", image:"https://zupimages.net/up/21/15/fhhq.png" },
+                { nomPoste: "Bachelor’s Degree in Web, Mobile and Business Intelligence", nomEntreprise: "CNAM",description: "Analysis and Design Web, Mobile and Business Intelligence Applications", periode: "2020 - 2021", image:"https://zupimages.net/up/20/42/iq8l.png" },
+                { nomPoste: "Associate Degree in Computer Science", nomEntreprise: "IUT DE MONTREUIL", description: "2019 - 2020 : Year performed in apprenticeship", periode: "2018 - 2020",   image:"https://zupimages.net/up/20/42/3ehw.png" },
             ],
             [
                 {nomCompetence: "HTML", img:"https://zupimages.net/up/20/44/6ype.png"},
