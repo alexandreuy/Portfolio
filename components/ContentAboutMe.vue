@@ -16,6 +16,9 @@
                 <svg width="30" height="20">
                     <a href="https://github.com/alexandreuy"><image xlink:href="@/assets/github.svg" src="github.png" width="20" height="20"/></a>
                 </svg>
+                <svg width="30" height="20">
+                    <a href="https://www.canva.com/design/DAEauZYpaj4/yCUxUkiszx5KtuVxdHlZ1Q/view?utm_content=DAEauZYpaj4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"><image xlink:href="@/assets/fichier.svg" width="20" height="20"/></a>
+                </svg>
             </div>
         </b-card>
         <hr/>
